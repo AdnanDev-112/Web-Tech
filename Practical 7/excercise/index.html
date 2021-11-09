@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Excercise</title>
+</head>
+<body>
+   <div class="grid-container">
+    <div class="item1" onclick="colorClick1()" id="box1">Red</div>
+    <div class="item2">
+        <div class="names">Joshua</div>
+        <div class="names">Jhon</div>
+        <div class="names">Kyle</div>
+        <div class="names">Cait</div>
+    </div>
+    <div class="item3">
+        <div class="section " onmouseover="onM()" onmouseout="onOut()" id="image"></div>
+        <div id="section2" onclick="colorClick2()">Orange</div>
+        <div class="section"><button  onclick='alert("You clicked Me")'>Click Me</button></div>
+        <div class="section"><input type="text" id="ipt" placeholder="Try Typing" onkeypress="preventType()"></div>
+    </div>
+    <div class="item4" onclick="colorClick3()" id="box4">Green</div>
+
+
+
+   </div>
+
+    <script src="./index.js"></script>
+</body>
+</html>
