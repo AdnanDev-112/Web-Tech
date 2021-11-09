@@ -1,0 +1,102 @@
+<Breakfast>
+
+    <OMLETTE>
+
+        <item>
+            <name>The Abigail Adams</name>
+            <description>  Spinach and mushroom</description>
+            <price>$9.0 </price>
+        </item>
+
+        <item>
+            <name>The George Mason</name>
+            <description>Yellow and White Cheddar</description>
+            <price>$7.99</price>
+        </item>
+
+        <item>
+            <name>The Jhon Marshall</name>
+            <description>Black Forest ham and Swiss Cheese</description>
+            <price> $10.5 </price>
+        </item>
+
+    </OMLETTE>
+
+
+    <Benedicts>
+
+        <item>
+            <name>The daniel Boone</name>
+            <description> Canadian Bacon</description>
+            <price>$8.50 </price>
+        </item>
+
+        <item>
+            <name>The benjamin Banneker </name>
+            <description>  Grilled with Tomato Sauce</description>
+            <price>$7.30 </price>
+        </item>
+
+        <item>
+            <name>The Lewis and Clark</name>
+            <description>Smoked Salmon </description>
+            <price> $11.95 </price>
+        </item>
+
+
+    </Benedicts>
+
+
+    <SOUTHERN-TOUR>
+        <item>
+            <name>The Mary and Polly</name>            
+            <description>Two Eggs covered with your choice of fries or grilled bacon</description>
+            <price>   $12.5  </price>
+        </item>
+
+        <item>
+            <name>The King George III</name>            
+            <description> Mushroom mashed with English Muffins </description>
+            <price>$10.25</price>
+        </item>
+
+
+    </SOUTHERN-TOUR>
+
+    <PANCAKES>
+        <item>
+            <name>The william Jhonson.</name>
+            <description>Served with peanut Butter</description>
+            <price>$9.5</price>
+        </item>
+
+        <item>
+            <name>The Jean Du Sable</name>
+            <description>Grilled french Toast</description>
+            <price>$9.8</price>
+        </item>
+
+
+    </PANCAKES>
+
+    <EXTRAS>
+        <item>
+            <name>Grenola and Yogurt</name>
+            <description>Homemade fresh Yogurt</description>
+            <price>$4.2</price>
+        </item>
+
+        <item>
+            <name> Bagels</name>
+            <description>Black Forest ham and Swiss Cheese </description>
+            <price>$2.5</price>
+        </item>
+    </EXTRAS>
+
+    <DRINKS>
+        <items>Milk,Coffee,ice Tea , Chocolate Milk .</items>
+    <price>$2.2</price>
+    </DRINKS>
+
+
+</Breakfast>
