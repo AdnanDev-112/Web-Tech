@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.grid-container {
+    display: grid;
+   grid-template-columns: 50% 50%;
+   grid-template-rows: 47.5vh 47.5vh;
+    grid-gap: 10px;
+    background-color: #a6bcce;
+    padding: 10px;
+  }
+
+  .grid-container > div {
+   
+    text-align: center;
+   
+    font-size: 30px;
+  }
+  .item1{
+      background-color: red;
+  }
+  .item4{
+      background-color: green;
+  }
+
+
+  .item2{
+      display: grid; 
+      grid-template-columns: auto auto;
+      grid-template-rows:auto auto;
+      grid-gap: 10px;
+      
+  }
+  
+  .item2 > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 50px 0;
+    font-size: 30px;
+  }
+  .item3{
+      display: grid; 
+      grid-template-columns: auto auto;
+      grid-template-rows:auto auto;
+      grid-gap: 10px;
+      
+  }
+  
+  .item3 > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 50px 0;
+    font-size: 30px;
+  }
+  #image{
+      background-image: url("./flower.jpg");
+      background-repeat: no-repeat;
+      background-size: contain;
+  }
+  #section2{
+      background-color: orange;
+  }
